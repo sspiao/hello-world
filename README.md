@@ -1,2 +1,3 @@
 # hello-world
-The hello world repository
+
+Completing the tutorial to procrastinate on my essays!
